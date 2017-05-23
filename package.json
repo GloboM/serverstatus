@@ -4,7 +4,9 @@
   "description": "Simple API that the BeBriefed application can poll to get random uptime data from",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
   },
   "author": "Joshua Lyman",
   "license": "MIT",
